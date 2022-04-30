@@ -9,9 +9,9 @@ View these files converted to diagrams at [scorpio diagrams](http://scorpiodiagr
 
 ## Sub directories
 
-+ *./images/* - subdirectory has png images which become annotated
-+ *./diagrams/* - contains the specs for the annotations
-+ *./wiki/* - is for the documents the diagrams are embedded in.
++ *[./images/](./tree/master/images)* - subdirectory has png images which become annotated
++ *[./diagrams/](./tree/master/diagrams)* - contains the specs for the annotations
++ *[./wiki/](./tree/master/wiki)* - is for the documents the diagrams are embedded in.
 
 ## The build step
 
