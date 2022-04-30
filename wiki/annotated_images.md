@@ -1,5 +1,3 @@
-!!Markdown
-
 # Annotated Images
 
 This page has some examples of annotated images.
@@ -9,24 +7,24 @@ This page has some examples of annotated images.
 
 A femur with some landmarks marked up
 
-!!Scorpio
+~~~Scorpio
 # Femur
-!!Markdown
+~~~
 
 
 ##Cell Wall
 
 The Cell Wall.
 
-!!Scorpio
+~~~Scorpio
 # CellWallRevision
-!!Markdown
+~~~
 
 ##Some Maths
 
-!!Scorpio
+~~~Scorpio
 # AnnotatedLatex
-!!Markdown
+~~~
 
 
 
